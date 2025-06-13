@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-0ssinsight<img id='gif' align="right" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="240">
+<img id='gif' align="right" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="240">
 <header align="left">
     <h1 align="left">Hola a todos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <h3 align="left">
@@ -53,6 +53,3 @@ Here are some ideas to get you started:
 </footer>
 
 ------
-
-Credit: [francojimenezcopati](https://github.com/francojimenezcopati)
-Last Edited on: 10/01/2024
